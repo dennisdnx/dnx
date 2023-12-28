@@ -1,1 +1,1 @@
-20963997
+console("Hello, World!");
